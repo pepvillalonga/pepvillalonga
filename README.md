@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Pep Villalonga] 👋
+# ¡Hola! Soy Pep Villalonga 👋
 
 Soy estudiante de Grado Superior Desarrollo de Aplicaciones Web Dual Intensivo. Me apasiona aprender Java, bases de datos y desarrollo web.
 
