@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! Soy [Pep Villalonga] 👋
 
-<!--
-**pepvillalonga/pepvillalonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Grado Superior Desarrollo de Aplicaciones Web Dual Intensivo. Me apasiona aprender Java, bases de datos y desarrollo web.
 
-Here are some ideas to get you started:
+## Tecnologías y habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java, JavaScript, HTML, CSS
+- Bases de datos (MariaDB, MySQL)
+- Git y GitHub
+
+## Proyectos destacados
+
+- [Katas](https://github.com/pepvillalonga/Katas.git): Aqui subo mis ejercicios terminados de la pagina CodeWars
+
+## Contacto
+
+- LinkedIn: [Pep Villalonga](https://linkedin.com/in/pepvillalonga)
+
