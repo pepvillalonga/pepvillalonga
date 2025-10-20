@@ -4,8 +4,8 @@ Soy estudiante de Grado Superior Desarrollo de Aplicaciones Web Dual Intensivo. 
 
 ## Tecnologías y habilidades
 
-- Java, JavaScript, HTML, CSS
-- Bases de datos (MariaDB, MySQL)
+- Java, JavaScript, HTML, CSS, PHP
+- Bases de datos (MariaDB, MySQL, MongoDB)
 - Git y GitHub
 
 ## Proyectos destacados
