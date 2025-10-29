@@ -1,7 +1,7 @@
 # ¡Hola! Soy Pep Villalonga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 💻 Software Dev | 🌱 Estudiante en CIFP Francesc Borja Moll
--
+
 Soy estudiante de Grado Superior Desarrollo de Aplicaciones Web Dual Intensivo. Me apasiona aprender Java, bases de datos y desarrollo web.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-A3C4F3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pepvillalonga)
