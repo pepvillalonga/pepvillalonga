@@ -31,7 +31,3 @@ Soy estudiante de Grado Superior Desarrollo de Aplicaciones Web Dual Intensivo. 
 ## Proyectos destacados
 
 -   [Katas](https://github.com/pepvillalonga/Katas.git): Aqui subo mis ejercicios terminados de la pagina CodeWars
-
-## Contacto
-
--   LinkedIn: [Pep Villalonga](https://linkedin.com/in/pepvillalonga)
