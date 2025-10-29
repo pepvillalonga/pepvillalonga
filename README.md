@@ -3,11 +3,9 @@
 💻 Software Dev | 🌱 Estudiante en CIFP Francesc Borja Moll
 Soy estudiante de Grado Superior Desarrollo de Aplicaciones Web Dual Intensivo. Me apasiona aprender Java, bases de datos y desarrollo web.
 
-<p align="center">
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-A3C4F3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pepvillalonga)
 [![Email](https://img.shields.io/badge/-Email-F4A3A3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@pepvillalonga.es)
 [![Portfolio Web](https://img.shields.io/badge/-Portfolio%20Web-C5A3F3?style=for-the-badge&logo=code&logoColor=white)](https://pepvillalonga.es)
-</p>
 
 ## Tecnologías que manejo
 
