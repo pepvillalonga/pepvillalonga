@@ -11,7 +11,7 @@ Me apasiona aprender Java, bases de datos y desarrollo web.
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge)](https://linkedin.com/in/pepvillalonga)
 [![EMAIL](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge)](mailto:info@pepvillalonga.es)
-[![PORTFOLIO WEB](https://img.shields.io/badge/PORTFOLIO_WEB-101010?style=for-the-badge)](https://pepvillalonga.es)
+[![PORTFOLIO WEB](https://img.shields.io/badge/PORTFOLIO_WEB-7209b7?style=for-the-badge)](https://pepvillalonga.es)
 
 <br><br>
 
@@ -44,13 +44,80 @@ Me apasiona aprender Java, bases de datos y desarrollo web.
 
 ## 🚀 Proyectos destacados
 
-| Proyecto                                                                   | Descripción                                                                                                                         | Stack Principal                                                                                                                                                                                                                                                                                                                    |
-| :------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **🤖 [AgendaWhatsapp](https://github.com/pepvillalonga/AgendaWhatsapp)**   | Asistente en WhatsApp impulsado por IA que gestiona tu agenda y recordatorios usando memoria a largo plazo (RAG) y Pinecone.        | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)           |
-| **📂 [RolodexImporter](https://github.com/pepvillalonga/RolodexImporter)** | Herramienta de backend para importar, procesar masivamente y persistir contactos desde archivos CSV a base de datos.                | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![CSV](https://img.shields.io/badge/CSV-217346?style=flat-square&logo=microsoftexcel&logoColor=white)                                                                                                                             |
-| **🌐 [PortafolioWeb](https://github.com/pepvillalonga/PortafolioWeb)**     | Repositorio que alberga el código de mi web personal, construida con React para mostrar mis habilidades, experiencia y proyectos.   | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **🏙️ [Visit Binissalem](https://visitbinissalem.com/)**                    | Sitio web oficial para el Ayuntamiento de Binissalem. Portal turístico desarrollado con WordPress y PHP para promover el municipio. | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)                    |
-| **⚔️ [KatasCodeWars](https://github.com/pepvillalonga/KatasCodeWars)**     | Repositorio con ejercicios de programación de CodeWars resueltos en Java. Colección de soluciones a desafíos algorítmicos.          | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Algoritmos](https://img.shields.io/badge/Algoritmos-lightgrey?style=flat-square)                                                                                                                                                |
+<table>
+  <thead>
+    <tr>
+      <th width="20%">Proyecto</th>
+      <th>Descripción</th>
+      <th>Stack Principal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="white-space: nowrap;">
+        🤖 <strong><a href="https://github.com/pepvillalonga/AgendaWhatsapp">AgendaWhatsapp</a></strong>
+      </td>
+      <td>
+        Asistente en WhatsApp impulsado por IA que gestiona tu agenda y recordatorios usando memoria a largo plazo (RAG) y Pinecone.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td style="white-space: nowrap;">
+        📂 <strong><a href="https://github.com/pepvillalonga/RolodexImporter">RolodexImporter</a></strong>
+      </td>
+      <td>
+        Herramienta de backend para importar, procesar masivamente y persistir contactos desde archivos CSV a base de datos.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSV-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td style="white-space: nowrap;">
+        🌐 <strong><a href="https://github.com/pepvillalonga/PortafolioWeb">PortafolioWeb</a></strong>
+      </td>
+      <td>
+        Repositorio que alberga el código de mi web personal, construida con React para mostrar mis habilidades, experiencia y proyectos.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td style="white-space: nowrap;">
+        🏙️ <strong><a href="https://visitbinissalem.com/">Visit Binissalem</a></strong>
+      </td>
+      <td>
+        Sitio web oficial para el Ayuntamiento de Binissalem. Portal turístico desarrollado con WordPress y PHP para promover el municipio.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </td>
+    </tr>
+    <tr>
+      <td style="white-space: nowrap;">
+        ⚔️ <strong><a href="https://github.com/pepvillalonga/KatasCodeWars">KatasCodeWars</a></strong>
+      </td>
+      <td>
+        Repositorio con ejercicios de programación de CodeWars resueltos en Java. Colección de soluciones a desafíos algorítmicos.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Algoritmos-lightgrey?style=flat-square" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
