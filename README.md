@@ -15,7 +15,7 @@ Me apasiona aprender Java, bases de datos y desarrollo web.
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepvillalonga&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepvillalonga&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="150" alt="languages graph" />
 
 ---
 
