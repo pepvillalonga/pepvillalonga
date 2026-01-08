@@ -13,10 +13,6 @@ Me apasiona aprender Java, bases de datos y desarrollo web.
 [![EMAIL](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge)](mailto:info@pepvillalonga.es)
 [![PORTFOLIO WEB](https://img.shields.io/badge/PORTFOLIO_WEB-7209b7?style=for-the-badge)](https://pepvillalonga.es)
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepvillalonga&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="150" alt="languages graph" />
-
 ---
 
 ## 🛠 Tecnologías que manejo
