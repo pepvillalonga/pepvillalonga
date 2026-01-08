@@ -116,6 +116,18 @@ Me apasiona aprender Java, bases de datos y desarrollo web.
         <img src="https://img.shields.io/badge/Algoritmos-lightgrey?style=flat-square" />
       </td>
     </tr>
+    <tr>
+      <td style="white-space: nowrap;">
+        ☕ <strong><a href="https://github.com/pepvillalonga/vending-machine">VendingMachine</a></strong>
+      </td>
+      <td>
+        Simulación de máquina expendedora para demostrar <strong>programación modular</strong>, alta cohesión y desacoplamiento entre inventario y pagos.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Modular-007EC6?style=flat-square" />
+      </td>
+    </tr>
   </tbody>
 </table>
 
