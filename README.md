@@ -6,7 +6,8 @@
 
 <p>
 Soy estudiante de Grado Superior Desarrollo de Aplicaciones Web Dual Intensivo. <br>
-Me apasiona aprender Java, bases de datos y desarrollo web.
+Me apasiona aprender Java, bases de datos y desarrollo web. <br>
+Actualmente trabajando en la <strong>Fundación Platoniq</strong>.
 </p>
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge)](https://linkedin.com/in/pepvillalonga)
